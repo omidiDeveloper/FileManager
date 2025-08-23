@@ -104,9 +104,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/android-file-manager](https://github.com/yourusername/android-file-manager)
+Mohammad Omidi - OmidiKotlin@gmail.com
+Project Link: [(https://github.com/omidiDeveloper/FileManager)]
 
 ## 🙏 Acknowledgments
 
